@@ -12,7 +12,7 @@ This project focuses on the schematic design and PCB layout of an ESP32-based el
 - Altium project files
 - Supporting libraries and project documents
 - Exported project files, where applicable
-- manufactureing informations
+- manufacturing informations
   
 
 ## Design Highlights
