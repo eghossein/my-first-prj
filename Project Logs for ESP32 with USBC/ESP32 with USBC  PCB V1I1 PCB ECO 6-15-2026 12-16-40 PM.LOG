@@ -1,0 +1,27 @@
+Change Component Footprint: Designator=D1 Old Footprint=LED0402 RED New Footprint=LED0402RED
+Added Pin To Net: NetName=GPIO1 Pin=D1-2
+Added Pin To Net: NetName=+5V_VBUS2 Pin=D2-2
+Add Pin To Net: Unknown Pin: Pin D3-S7
+Add Pin To Net: Unknown Pin: Pin D3-S8
+Add Pin To Net: Unknown Pin: Pin D4-S7
+Add Pin To Net: Unknown Pin: Pin D4-S8
+Add Pin To Net: Unknown Pin: Pin D5-S7
+Add Pin To Net: Unknown Pin: Pin D5-S8
+Add Pin To Net: Unknown Pin: Pin D6-S7
+Add Pin To Net: Unknown Pin: Pin D6-S8
+Add Pin To Net: Unknown Pin: Pin D7-S7
+Add Pin To Net: Unknown Pin: Pin D7-S8
+Add Pin To Net: Unknown Pin: Pin D8-S7
+Add Pin To Net: Unknown Pin: Pin D8-S8
+Add Pin To Net: Unknown Pin: Pin R11-R?
+Add Pin To Net: Unknown Pin: Pin R12-R?
+Add Pin To Net: Unknown Pin: Pin R19-R?
+Add Pin To Net: Unknown Pin: Pin R20-R?
+Add Pin To Net: Unknown Pin: Pin U1-61
+Add Pin To Net: Unknown Pin: Pin U1-66
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Net: Name=NetD2_1
